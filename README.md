@@ -16,9 +16,9 @@ Every Servo instance implements the following methods:
     * getCurrentDegree: returns the current position in degrees
 
 
-    Author: Daniele Mazzei
-    Contributor Giacomo Baldi
+Author: Daniele Mazzei
+Contributor: Giacomo Baldi
 
-    License GPL3
+License GPL3, copyright Viper Team 2015
 
-    info www.viperize.it
+info www.viperize.it
